@@ -1,0 +1,6 @@
+#user input in python
+username = input("Enter your username:")
+password = input("Enter your password:")
+
+print("your name is :",username)
+print("your password is:",password)
