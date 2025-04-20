@@ -1,0 +1,4 @@
+#type casting in python
+
+a = "5678899"
+print(type(int(a)))
