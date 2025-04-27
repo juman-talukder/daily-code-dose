@@ -1,0 +1,5 @@
+#python list 
+mylist = ["java","python","c"]
+print(mylist)
+print(type(mylist))
+print(len(mylist)) #this print length of list
